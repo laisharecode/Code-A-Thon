@@ -1,0 +1,12 @@
+body {
+	background-color: azure;
+}
+
+.Places{color: white; background-color: black; padding:20px; margin: 20px 0 20px 0;}
+.Description{color: white; background-color: black;}
+#favourite {color: white; background-color: orange; font-family: Arial;}
+
+h1 {
+	color: crimson;
+	margin-left: 40px;
+} 
